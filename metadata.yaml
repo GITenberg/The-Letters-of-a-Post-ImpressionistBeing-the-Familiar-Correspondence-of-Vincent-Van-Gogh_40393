@@ -1,0 +1,44 @@
+_repo: The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh_40393
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ludovici, Anthony M. (Anthony Mario)
+    aliases:
+    - Ludovici, A. M. (Anthony Mario)
+    - Ludovici, Tony
+    - Ludovici, Anthony Mario
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '1830'
+    url: http://www.gutenberg.org/2009/agents/1830
+covers:
+- cover_type: archival
+  image_path: 40393-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gogh, Vincent van
+    aliases:
+    - Van Gogh, Vincent
+    - Gogh, Vincent-Willem van
+    birthdate: 1853
+    deathdate: 1890
+    gutenberg_agent_id: '40599'
+    url: http://www.gutenberg.org/2009/agents/40599
+    wikipedia: http://en.wikipedia.org/wiki/Van_Gogh
+description: ''
+gutenberg_issued: '2012-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40393'
+  lccn: '13035400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Post-impressionism (Art)'
+- !lcc 'ND'
+title: 'The Letters of a Post-Impressionist
+
+  Being the Familiar Correspondence of Vincent Van Gogh'
+url: http://www.gutenberg.org/ebooks/40393
