@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40599
     wikipedia: http://en.wikipedia.org/wiki/Van_Gogh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40393#The-Letters-of-a-Post-ImpressionistBeing-the-Familiar-Correspondence-of-Vincent-Van-Gogh
 gutenberg_issued: '2012-08-02'
 gutenberg_type: Text
 identifiers:
